@@ -7,7 +7,7 @@
     --paper-dim: #A9B4B3;
     --gold: #C9A227;
     --gold-dim: #8f7420;
-    --teal: #4C8577;
+    --teal: #14f7be;
     --radius: 2px;
   }
 
@@ -176,7 +176,7 @@
     width: 58px;
     height: 58px;
     border-radius: 50%;
-    background: #25D366;
+    background: #07d453;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -191,7 +191,7 @@
     position: absolute;
     inset: 0;
     border-radius: 50%;
-    border: 2px solid #25D366;
+    border: 2px solid #07f83b;
     opacity: 0;
     animation: pulse 2.4s ease-out infinite;
   }
@@ -612,7 +612,7 @@
 
   .badge {
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 11.5px;
+    font-size: 7.5px;
     padding: 8px 14px;
     border-radius: 999px;
     display: inline-flex;
@@ -6657,11 +6657,11 @@ ANIMATIONS
 
     background:
 
-      rgba(255, 255, 255, .03);
+      #07627908;
 
-    border: 1px solid rgba(255, 255, 255, .08);
+    border: 1px solid rgba(226, 22, 22, 0.08);
 
-    color: #050000;
+    color: #fcfcfc;
 
     font-size: 15px;
 
@@ -6724,7 +6724,7 @@ ANIMATIONS
 
     background:
 
-      rgba(255, 255, 255, .05);
+      rgba(202, 176, 176, 0.05);
 
   }
 
@@ -10187,3 +10187,4 @@ padding-top:120px;
 }
 
 }
+
